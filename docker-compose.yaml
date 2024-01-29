@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  yogicalgo:
+    container_name: yogicalgo
+    image: yogicalgo
+    build: ./
+    restart: always
+    ports:
+        - "14300:80"
