@@ -1,6 +1,5 @@
 {
   "name": "weddingwebsite",
-  "homepage": "https://www.github.io/sshubhamk1/yogicalgo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +40,7 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.70.0"
+    "sass": "^1.70.0",
+    "serve": "^14.2.1"
   }
 }
